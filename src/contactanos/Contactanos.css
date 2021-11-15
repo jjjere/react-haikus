@@ -1,0 +1,19 @@
+.IconosContactanos{
+  text-align: center;
+  margin-top:-10px ;
+  color: var(--rosa-claro);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.iconos{
+    color: pink;
+    font-size: 35px;
+    margin: 0px 20px;
+}
+.Parrafo{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
